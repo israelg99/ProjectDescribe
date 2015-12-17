@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project Describe</string>
+    <string name="desc_default">Show me the world!</string>
+</resources>
